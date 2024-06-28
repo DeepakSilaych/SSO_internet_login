@@ -1,4 +1,4 @@
-# IIT Bombay Internet Login Script
+# IITB SSO Internet Login Script
 
 This repository contains a Bash script that automates the process of logging into the IIT Bombay Single Sign-On (SSO) system.
 
@@ -6,7 +6,7 @@ This repository contains a Bash script that automates the process of logging int
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/deepaksilaych/iitb-internet-login.git
+   git clone https://github.com/DeepakSilaych/SSO_internet_login
    cd iitb-sso-login
     ```
 
